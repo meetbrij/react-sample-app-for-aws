@@ -10,6 +10,7 @@ function App() {
         <p className="caption">
           @Source: Photography by Brijesh Bolar.
         </p>
+        <div className="desc">This website is hosted as a static website on AWS S3</div>
       </header>
     </div>
   );
